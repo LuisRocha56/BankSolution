@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Edson Rocha\\Desktop\\curso CDIS\\c#\\BankSolution\\bankconsole\\BankConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Edson Rocha\\Desktop\\curso CDIS\\c#\\BankSolution\\bankconsole\\BankConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edson Rocha\\Desktop\\curso CDIS\\c#\\BankSolution\\bankconsole\\BankConsole.csproj",
+        "projectName": "BankConsole",
+        "projectPath": "C:\\Users\\Edson Rocha\\Desktop\\curso CDIS\\c#\\BankSolution\\bankconsole\\BankConsole.csproj",
+        "packagesPath": "C:\\Users\\Edson Rocha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edson Rocha\\Desktop\\curso CDIS\\c#\\BankSolution\\bankconsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edson Rocha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
